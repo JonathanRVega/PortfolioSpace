@@ -1,0 +1,60 @@
+[
+  {
+    "id": "Mercury",
+    "name": "About",
+    "description": ""
+  },
+  {
+    "id": "Venus",
+    "name": "Experience",
+    "description": ""
+  },
+  {
+    "id": "Earth",
+    "name": "Education",
+    "description": ""
+  },
+  {
+    "id": "Mars",
+    "name": "Skills",
+    "description": "<p>The skill I have the most experience with is frontend work. Css, React, Redux, Javascript and overall everything that has to do with UI work, I also have quite a bit of experience with backend technologies like Java and C++.</p>",
+    "bullets": [
+      {
+        "title": "Spanish, English",
+        "value": "Languagues"
+      },
+      {
+        "title": "2 years in AutoZone",
+        "value": "Experience working"
+      },
+      {
+        "title": "Software engineering",
+        "value": "Bachelor's degree"
+      },
+      {
+        "title": "Photoshop, Premiere pro",
+        "value": "Media and design"
+      }
+    ]
+  },
+  {
+    "id": "Jupiter",
+    "name": "About me",
+    "description": ""
+  },
+  {
+    "id": "Saturn",
+    "name": "Technologies",
+    "description": ""
+  },
+  {
+    "id": "Uranus",
+    "name": "Portfolio",
+    "description": ""
+  },
+  {
+    "id": "Neptune",
+    "name": "Current Projects",
+    "description": ""
+  }
+]
