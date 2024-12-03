@@ -1,7 +1,6 @@
 import { AnimatePresence, motion } from 'framer-motion';
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { useActivePlanet } from '../hooks/useActivePlanet';
 
 const BulletItem = ({ title, value }) => (
   <div className="bullets_item bullet">

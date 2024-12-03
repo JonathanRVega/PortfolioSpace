@@ -2,22 +2,58 @@
   {
     "id": "Mercury",
     "name": "About",
-    "description": ""
+    "description": "<p style='text-align: justify;'>I am a web developer and software engineer graduate that loves challenges and clean design. I'm 23 years old and my priority right now is to learn as much as I can and challenge myself to become a better developer.</p>"
   },
   {
     "id": "Venus",
     "name": "Experience",
-    "description": ""
+    "description": "",
+    "bullets": [
+      {
+        "title": "In 2020 I got the opportunity to join Kable Academy, this portfolio was made with the knowledge and experience I got in the academy.",
+        "value": "Web Developer/Designer Student"
+      },
+      {
+        "title": "Currently I have 2 years working for Autozone as a full-stack developer. Teamwork and skill-learning is the most important thing in our team.",
+        "value": "Experience working"
+      },
+      {
+        "title": "Software engineering bachelor's degree with Android app development and Web development certificates.",
+        "value": "Bachelor's degree"
+      },
+      {
+        "title": "Back in 2016 I started a youtube channel which helped me improve my design and video editing skills, it reached 30k subs: Plasma Smash",
+        "value": "Media & Editing Tools"
+      }
+    ]
   },
   {
     "id": "Earth",
     "name": "Education",
-    "description": ""
+    "description": "",
+    "bullets": [
+      {
+        "title": "Programming diploma / CBTis 122",
+        "value": "High School"
+      },
+      {
+        "title": "Software Development Bachelor's degree / Tecmilenio",
+        "value": "College"
+      },
+      {
+        "title": "6 month full-stack developer program",
+        "value": "Kable Academy"
+      },
+      {
+        "title": "50+ hours in courses every year",
+        "value": "Autozone"
+      }
+    ]
   },
   {
     "id": "Mars",
     "name": "Skills",
-    "description": "<p>The skill I have the most experience with is frontend work. Css, React, Redux, Javascript and overall everything that has to do with UI work, I also have quite a bit of experience with backend technologies like Java and C++.</p>",
+    "description": "<p style='text-align: justify;'>The skill I have the most experience with is frontend work. Css, React, Redux, Javascript and overall everything that has to do with UI work, I also have quite a bit of experience with backend technologies like Java and C++.</p>",
     "bullets": [
       {
         "title": "Spanish, English",
@@ -40,21 +76,57 @@
   {
     "id": "Jupiter",
     "name": "About me",
-    "description": ""
+    "description": "<p style='text-align: justify;'>Before taking an interest in programming I got into the track team in middle school and high school, to this day running is still one of my favorite hobbies and I still attend races every now and then.<br>One of the things that got me curious about programming was videogames, my favorite videogame being Smash Bros where I'm currently the best player in my city and 2nd best in my state.</p>"
   },
   {
     "id": "Saturn",
     "name": "Technologies",
-    "description": ""
+    "description": "",
+    "bullets": [
+      {
+        "title": "React and frontend technologies are my best skills and the ones I'm most confident in.",
+        "value": "React/Redux"
+      },
+      {
+        "title": "Currently learning about C++ since it is used in my work a lot, beginner level.",
+        "value": "C++"
+      },
+      {
+        "title": "Most of high school and college used Java so I have a lot of the general skills down.",
+        "value": "Java"
+      },
+      {
+        "title": "MySql, PosgreSQL, C, Node JS, Teamwork, Willing to learn.",
+        "value": "Flexibility"
+      }
+    ]
   },
   {
     "id": "Uranus",
     "name": "Portfolio",
-    "description": ""
+    "description": "",
+    "bullets": [
+      {
+        "title": "React Project simulating a pokemon article website. https://jonathanrvega.github.io/Poketimes/",
+        "value": "Poketimes"
+      },
+      {
+        "title": "Get to know the city of Cincinnati and their main attractions. https://capdeploy.herokuapp.com/",
+        "value": "Cincinnati Tourism"
+      },
+      {
+        "title": "Web page to simulate a pet store, this page was made to practice my css and designing skills. https://jonathanrvega.github.io/petstore/",
+        "value": "Pet Store Project"
+      },
+      {
+        "title": "A website prototype I made recently for a up and coming videogame company. https://jonathanrvega.github.io/NefariousGameStudio/",
+        "value": "Nefarious Game Studios"
+      }
+    ]
   },
   {
     "id": "Neptune",
-    "name": "Current Projects",
-    "description": ""
+    "name": "Current Goals",
+    "description": "<p style='text-align: justify;'>The current priority is to keep learning from my superiors and achieve mastery on certain technologies, I would like to master everything that has to do with frontend technologies but I'm not closed to learning other stacks or technologies.</p>"
   }
 ]

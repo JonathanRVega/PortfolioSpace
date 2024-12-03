@@ -6,7 +6,6 @@ import MarsTexture from '../textures/Mars.jpg';
 import Ecliptic from './Ecliptic';
 import { useActivePlanet } from '../hooks/useActivePlanet';
 import { calculatePosition } from '../utils/utils';
-import { Text } from '@react-three/drei';
 
 export default function Mars(props) {
   const { planetRadius, orbitRadius, angle } = props;
